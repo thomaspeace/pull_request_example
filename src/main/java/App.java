@@ -7,6 +7,7 @@ public class App {
         System.out.println("Added on line 7, on main");
         System.out.println("Added on line 8, feature_b");
 
+        System.out.println("Added on line 10, feature_c");
     }
 
 }
